@@ -1,18 +1,27 @@
-This is a simple Python desktop application that evaluates the strength of a user's password in real-time. It provides visual feedback using a progress bar, estimates the time required to crack the password based on its complexity, and offers suggestions to improve weak passwords.
+Password Strength Analyzer is a Python-based desktop application built with Tkinter that evaluates the strength of user-provided passwords and provides real-time feedback.
 
-This project is suitable for beginners learning GUI development with Python and offers hands-on experience with regular expressions, event handling, and basic security concepts.
+Key Features
 
-Features
+Strength scoring system based on length, character variety, and password patterns
 
-Real-time password strength analysis
+Visual feedback with a progress bar and strength labels (Very Weak → Strong)
 
-Visual strength indicator using a color-coded progress bar
+Estimated crack time calculation using entropy and brute-force assumptions
 
-Estimated time to crack the password using brute-force logic
+Security checks for common, sequential, or repeated characters
 
-Suggestions for improving password quality
+Improvement suggestions to guide users toward stronger, more secure passwords
 
-Toggle option to show or hide the entered password
+User-friendly interface with password visibility toggle and real-time updates
 
-Simple and clean graphical user interface using tkinter
+Project Goals
 
+Promote cybersecurity awareness by showing how easily weak passwords can be cracked.
+
+Educate users with actionable suggestions for building stronger passwords.
+
+Practical learning of GUI development in Python and applying security best practices.
+
+Combine usability and security by making password analysis intuitive and interactive.
+
+This project reflects my interest in cybersecurity, usability, and secure software design, with a focus on educating users while building practical coding skills.
