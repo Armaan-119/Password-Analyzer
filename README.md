@@ -13,5 +13,3 @@ Project Goals:
 2. Educate users with actionable suggestions for building stronger passwords
 3. Practical learning of GUI development in Python and applying security best practices
 4. Combine usability and security by making password analysis intuitive and interactive
-
-This project reflects my interest in cybersecurity, usability, and secure software design, with a focus on educating users while building practical coding skills.
